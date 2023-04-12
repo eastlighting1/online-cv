@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: eastlighting1@gachon.ac.kr
-    phone: 00000000000
+    phone: 
     timezone: Korea Standard Time
     citizenship: Korea
     website: eastlighting1.github.io #do not add http://
@@ -47,19 +47,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      a college student who is doing machine learning and data analysis using natural language processing technology. I am very interested in Korean text and data-based business processing, and I hope to get a job in the field of machine learning/data analysis/strategic management/strategic marketing.
       
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc(Eng) in Software
+        university: Gachon University
+        time: 2019 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,17 +63,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
