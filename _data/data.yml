@@ -66,83 +66,33 @@ education:
         university: Gachon University
         time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-experiences:
-    title: 
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: 
-      list:
-        - name: 
-          start: 
-          end: 
-          organization: 
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-              
-             
+          I experienced a variety of labs, projects, and presentations in line with the school's emphasis on practicing what I learn and sharing my findings with others. I was able to learn a lot of different subjects under the guidance of renowned professors.
         
 projects:
     title: 
     intro: >
-      Not yet
+      I've worked on many different projects to get a feel for the path I should take.
     assignments:
-      - title: 
-        link: "#hook"
-        tagline: 
+      - title: SteamGame-Recommendation
+        link: https://github.com/twoone17/SteamGame-Recommendation
+        tagline: "In-class project to create a recommender system"
 
-oss:
-    title: 
-    intro: >
-      Not yet
-    contributions:
-      - title: 
-        link: 
-        tagline: 
-
-
-
-publications:
-    title: 
-    intro: |
-      Not yet
-    papers:
-      - title: 
-        link:
-        authors:
-        conference:
+      - title: FRIMO
+        link: https://github.com/Friend-for-Modern-people/FRIMO_ML
+        tagline: "Graduation project to create an AI that becomes a user's chat buddy and diary creator."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
+
+      - name: C
+        level: 80%
+        
+      - name: PyTorch
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
