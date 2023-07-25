@@ -48,16 +48,15 @@ sidebar:
         - item: Reading Books
           link:
 
+        - item: Play Games
+          link: https://www.bungie.net/7/en/Destiny
+
 career-profile:
     title: About Me
     summary: |
           I am a student in the Department of Computing at Gachon University. I am particularly interested in natural language processing, and I am studying data analysis using natural language processing and machine learning/deep learning in general. In addition to a career as a data analyst or AI engineer, I am also interested in becoming a business strategy expert or data-driven marketer based on IT companies.
       
           I prefer to organize and execute plans in a team rather than create something on my own, and I usually create long-term plans that can last beyond my hand rather than short-term plans of one year or less. Passion and imagination are my strengths, and I strive to ensure that persistence comes with passion.
-
-          가천대학교 소프트웨어학과에 재학 중인 학생입니다. 특별히 자연어처리에 관심이 많으며, 자연어처리를 이용한 데이터 분석과 머신러닝/딥러닝 전반에 대하여 흥미를 가지고 공부를 해나가고 있습니다. 데이터 분석가나 AI 공학자로서의 진로 외에도 IT기업을 기반으로 하는 경영전략 전문가나 데이터 기반 마케터로의 진출에도 관심이 많습니다.
-
-          혼자서 무언가를 만들기보다는 팀 단위의 계획을 세우고 실행하는 것을 선호하며, 1년 이하의 단기 계획보다는 오래 지속될 수 있는 장기 계획을 주로 세웁니다. 열정과 상상력이 저의 강점이며, 열정 만큼 끈기가 따라올 수 있도록 노력합니다.
       
 education:
     title: Education
@@ -69,7 +68,7 @@ education:
           I experienced a variety of labs, projects, and presentations in line with the school's emphasis on practicing what I learn and sharing my findings with others. I was able to learn a lot of different subjects under the guidance of renowned professors.
         
 projects:
-    title: 
+    title: Projects
     intro: >
       I've worked on many different projects to get a feel for the path I should take.
     assignments:
@@ -79,7 +78,7 @@ projects:
 
       - title: FRIMO
         link: https://github.com/Friend-for-Modern-people/FRIMO_ML
-        tagline: "Graduation project to create an AI that becomes a user's chat buddy and diary creator."
+        tagline: "Graduation project to create an AI chat buddy and diary creator."
 
 skills:
     title: Skills &amp; Proficiency
